@@ -40,6 +40,7 @@
 # ❌ audiodriver
 
 - ❌ set chip register
+- ❌ pitch table
 
 # ❌ audiocore
 
@@ -47,6 +48,5 @@
 - ❌ fm oscillator
 - ❌ wavetable oscillator
 - ❌ sample player
-- ❌ pitch table
 - ❌ individual channel sample output
 - ❌ mixed sample output
