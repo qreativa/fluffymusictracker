@@ -11,7 +11,8 @@
 - ❌ keyboard input
 - ❌ audio output
 - ❌ adjustable timer
-- ❌ file read/write
+- ❌ file operations (read, write, browse)
+- ❌ clipboard operations
 - ❌ audio resampling (?)
 
 # ❌ ui
