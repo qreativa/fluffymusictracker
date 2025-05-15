@@ -1,3 +1,5 @@
+// example raylib platform implementation
+
 #include "raylib.h"
 
 namespace platform {
