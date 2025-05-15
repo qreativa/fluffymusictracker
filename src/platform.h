@@ -1,7 +1,9 @@
 #pragma once
-namespace platform {
-    int ConstructWindow();
-    int IdkTempDrawingFunction();
-    int DestroyWindow();
-}
 
+namespace platform {
+
+int ConstructWindow();
+int IdkTempDrawingFunction();
+int DestroyWindow();
+
+} // namespace platform
