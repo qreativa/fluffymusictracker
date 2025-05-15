@@ -16,7 +16,6 @@
 
 # ❌ ui
 
-## what it needs
 - ❌ basic elements (buttons, labels, subwindows, tabs...)
 - ❌ keyboard shortcuts
 - ❌ main window
@@ -29,7 +28,6 @@
 
 # ❌ engine
 
-## what it needs
 - ❌ patterns
 - ❌ orders
 - ❌ macros/effects
@@ -41,12 +39,10 @@
 
 # ❌ audiodriver
 
-## what it needs
 - ❌ set chip register
 
 # ❌ audiocore
 
-## what it needs
 - ❌ psg oscillator
 - ❌ fm oscillator
 - ❌ wavetable oscillator
