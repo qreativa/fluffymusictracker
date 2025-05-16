@@ -1,5 +1,5 @@
 ---
-# We'll use defaults from the LLVM style, but with 4 columns indentation.
+# FMT uses a style based on LLVM with some minor modifications.
 BasedOnStyle: LLVM
 IndentWidth: 4
 AllowShortBlocksOnASingleLine: Always
@@ -8,7 +8,6 @@ AllowShortLambdasOnASingleLine: All
 AllowShortLoopsOnASingleLine: true
 ---
 Language: Cpp
-# Force pointers to the type for C++.
 DerivePointerAlignment: false
 PointerAlignment: Left
 ...
