@@ -1,23 +1,27 @@
-# legend
+# Preliminary roadmap
+
+This is a preliminary roadmap of features that should be implemented in each module, along with the statuses of their implementations. This is subject to change and should not be considered final.
+
+## Legend
 - ✅ = implemented
 - 🟡 = work in progress
 - ❌ = not implemented
+- ❔ = might not be needed
 
 # 🟡 platform
 
 - 🟡 create/destroy window
-- ❌ draw
-- ❌ mouse input
-- ❌ keyboard input
+- ❌ ui elements (buttons, labels, subwindows, tabs...) (maybe split into its own module?)
 - ❌ audio output
 - ❌ adjustable timer
 - ❌ file operations (read, write, browse)
 - ❌ clipboard operations
-- ❌ audio resampling (?)
+- ❌ audio resampling (here? idk where else to put it)
+- ❔ mouse input
+- ❔ keyboard input
 
 # ❌ ui
 
-- ❌ basic elements (buttons, labels, subwindows, tabs...)
 - ❌ keyboard shortcuts
 - ❌ main window
 - ❌ pattern view
@@ -41,7 +45,12 @@
 # ❌ audiodriver
 
 - ❌ set chip register
-- ❌ pitch table
+- ❌ note pitch table/calculation
+- ❌ vibrato
+- ❌ portamento
+- ❌ pitch bends
+- ❌ compressor
+- ❌ any chip-specific effects
 
 # ❌ audiocore
 
@@ -49,5 +58,5 @@
 - ❌ fm oscillator
 - ❌ wavetable oscillator
 - ❌ sample player
-- ❌ individual channel sample output
-- ❌ mixed sample output
+- ❌ individual channel output
+- ❌ mixed output
