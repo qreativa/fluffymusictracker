@@ -1,6 +1,8 @@
 # FluffyMusicTracker
 A generic template for making custom music trackers. The aim of this project is to minimize duplicated effort by providing as much functionality shared between trackers as possible, while also hopefully serving as a functional fakebit tracker on its own.
 
+You can find a preliminary roadmap [here](https://github.com/qreativa/fluffymusictracker/blob/main/doc/roadmap.md).
+
 **WARNING:** This is a heavy WIP! Don't expect to be able to use this just yet.
 
 # Building

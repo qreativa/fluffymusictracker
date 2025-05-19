@@ -17,8 +17,9 @@ This is a preliminary roadmap of features that should be implemented in each mod
 - ❌ file operations (read, write, browse)
 - ❌ clipboard operations
 - ❌ audio resampling (here? idk where else to put it)
-- ❔ mouse input
-- ❔ keyboard input
+- ❌ keyboard note input
+- ❌ midi note input
+- ❔ general kb/mouse input
 
 # ❌ ui
 
@@ -30,6 +31,7 @@ This is a preliminary roadmap of features that should be implemented in each mod
 - ❌ wavetable instrument editor
 - ❌ sample editor
 - ❌ oscilloscope view
+- ❌ configuration
 
 # ❌ engine
 
@@ -49,6 +51,7 @@ This is a preliminary roadmap of features that should be implemented in each mod
 - ❌ vibrato
 - ❌ portamento
 - ❌ pitch bends
+- ❌ volume slides
 - ❌ compressor
 - ❌ any chip-specific effects
 
